@@ -11,6 +11,7 @@ body {
 .no-gutters {
     padding-left: 30px;
     padding-top: 100px;
+    padding-right: 30px;
 }
 /* Adjustment to position image correctly */
 .card-img {
