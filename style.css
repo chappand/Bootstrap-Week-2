@@ -8,9 +8,22 @@ nav {
 }
 
 .card-img {
-    height: 50%;
+    height: 40%;
 }
 
 .card {
     border: 0px;
+}
+
+.card-custom {
+    padding-left: 30px;
+    padding-top: 100px;
+}
+
+.img-custom {
+    padding-top: 20px;
+}
+
+.btn {
+    line-height: 2;
 }
