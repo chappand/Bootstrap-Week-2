@@ -37,3 +37,22 @@ nav {
     color: black;
     text-align: center;
   }
+
+  .portfolio-custom {
+      padding-left: 15px;
+      padding-top: 100px;
+      line-height: 0.5;
+  }
+
+  .container {
+      margin-left: 0;
+      padding-left: 15px;
+  }
+
+  h1 {
+      font-size: 1.3rem;
+  }
+
+  .portfolio-images {
+      margin-bottom: 10px;
+  }
