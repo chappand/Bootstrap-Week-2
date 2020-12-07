@@ -1,6 +1,11 @@
 /* Background color for the navbar */
 nav {
     background-color: rgb(130, 214, 165);
+    font-family: "Do Hyeon", sans-serif;
+}
+/* Added new font */
+body {
+    font-family: "Do Hyeon", sans-serif;
 }
 /* Positioning for the main content box */
 .no-gutters {
@@ -28,16 +33,6 @@ nav {
 .btn {
     line-height: 2;
 }
-/* Creating the sticky footer */
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(130, 214, 165);
-    color: black;
-    text-align: center;
-  }
 /* Positioning for the main content box */
   .portfolio-custom {
       padding-left: 15px;
@@ -60,4 +55,15 @@ nav {
 /* Adding a line separater between the header and the images */
   .portfolio-title {
       border-bottom: 10px solid rgb(130, 214, 165);
+  }
+  /* Creating the sticky footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(130, 214, 165);
+    color: black;
+    text-align: center;
+    font-family: "Do Hyeon", sans-serif;
   }
