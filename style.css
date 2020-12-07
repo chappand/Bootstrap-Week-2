@@ -1,20 +1,21 @@
+/* Background color for the navbar */
 nav {
     background-color: rgb(130, 214, 165);
 }
-
+/* Positioning for the main content box */
 .no-gutters {
     padding-left: 30px;
     padding-top: 100px;
 }
-
+/* Adjustment to position image correctly */
 .card-img {
     height: 40%;
 }
-
+/* Override for the border that came with the boostrap on the card */
 .card {
     border: 0px;
 }
-
+/* Positioning for the main content box */
 .card-custom {
     padding-left: 30px;
     padding-top: 100px;
@@ -23,11 +24,11 @@ nav {
 .img-custom {
     padding-top: 20px;
 }
-
+/* Increasing the size of the button */
 .btn {
     line-height: 2;
 }
-
+/* Creating the sticky footer */
 .footer {
     position: fixed;
     left: 0;
@@ -37,7 +38,7 @@ nav {
     color: black;
     text-align: center;
   }
-
+/* Positioning for the main content box */
   .portfolio-custom {
       padding-left: 15px;
       padding-top: 100px;
@@ -48,15 +49,15 @@ nav {
       margin-left: 0;
       padding-left: 15px;
   }
-
+/* Override the font size that came with the bootstrap */
   h1 {
       font-size: 1.3rem;
   }
-
+/* Adding a break in between images, vertically */
   .portfolio-images {
       margin-bottom: 10px;
   }
-
+/* Adding a line separater between the header and the images */
   .portfolio-title {
       border-bottom: 10px solid rgb(130, 214, 165);
   }
