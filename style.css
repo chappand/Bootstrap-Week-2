@@ -1,3 +1,16 @@
 nav {
     background-color: rgb(130, 214, 165);
 }
+
+.no-gutters {
+    padding-left: 30px;
+    padding-top: 100px;
+}
+
+.card-img {
+    height: 50%;
+}
+
+.card {
+    border: 0px;
+}
