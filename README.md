@@ -9,4 +9,4 @@ This is supposed to be the framework to be able showcase my abilities.
 
 Here is a link to the application: https://chappand.github.io/Horiseon-Website-Refactor/
 
-![image] (https://user-images.githubusercontent.com/74199996/101306533-27e84680-3813-11eb-95f8-ea26249597d6.png)
+![image] (https://user-images.githubusercontent.com/74199996/101405573-48151580-38a6-11eb-80d0-63b890832098.png)
