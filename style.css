@@ -56,3 +56,7 @@ nav {
   .portfolio-images {
       margin-bottom: 10px;
   }
+
+  .portfolio-title {
+      border-bottom: 10px solid rgb(130, 214, 165);
+  }
