@@ -7,6 +7,6 @@ To go along with the bootstrap css that automatically goes into it, I add my own
 
 This is supposed to be the framework to be able showcase my abilities.
 
-Here is a link to the application: https://chappand.github.io/Horiseon-Website-Refactor/
+Here is a link to the application: https://chappand.github.io/Bootstrap-Week-2/
 
 ![image] (https://user-images.githubusercontent.com/74199996/101405573-48151580-38a6-11eb-80d0-63b890832098.png)
