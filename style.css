@@ -18,7 +18,11 @@ body {
 
 /* Adjustment to position image correctly */
 .card-img {
-    height: 40%;
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding-right: 20px;
+
 }
 
 /* Override for the border that came with the boostrap on the card */
@@ -67,7 +71,7 @@ body {
   .portfolio-title {
       border-bottom: 10px solid rgb(130, 214, 165);
   }
-  
+
   /* Creating the sticky footer */
 .footer {
     position: fixed;
