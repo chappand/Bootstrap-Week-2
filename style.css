@@ -27,3 +27,13 @@ nav {
 .btn {
     line-height: 2;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(130, 214, 165);
+    color: black;
+    text-align: center;
+  }
