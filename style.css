@@ -83,3 +83,7 @@ body {
     text-align: center;
     font-family: "Do Hyeon", sans-serif;
   }
+
+  .links {
+      height: 20px;
+  }
