@@ -87,3 +87,8 @@ body {
   .links {
       height: 20px;
   }
+
+  .pics {
+      height: 300px;
+      width: 300px;
+  }
